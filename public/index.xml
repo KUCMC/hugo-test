@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KUCMC</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on KUCMC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HamroNiwas Entrepreneurship 101 Workshop</title>
+      <link>//localhost:1313/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/post-4/</guid>
+      <description>Are you a Kathmandu University student eager to dive into the world of entrepreneurship?</description>
+    </item>
+    <item>
+      <title>Sports Week 2024 KUCMC</title>
+      <link>//localhost:1313/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/post-1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Workshop on Quantum Computing and Post Quantum Cryptography</title>
+      <link>//localhost:1313/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/post-2/</guid>
+      <description>Join us in this workshop as we delve into groundbreaking research and explore emerging trends that are shaping the future of Quantum Computing and Post Quantum Cryptography.</description>
+    </item>
+    <item>
+      <title>Avash Shrestha</title>
+      <link>//localhost:1313/authors/5-avash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/5-avash/</guid>
+      <description>Treasurer</description>
+    </item>
+    <item>
+      <title>Avinash Tiwari</title>
+      <link>//localhost:1313/authors/2-avinash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/2-avinash/</guid>
+      <description>Vice President</description>
+    </item>
+    <item>
+      <title>Ayam Basyal</title>
+      <link>//localhost:1313/authors/1-ayam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/1-ayam/</guid>
+      <description>President</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/elements/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>Hritik Chaudhary</title>
+      <link>//localhost:1313/authors/4-hritik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/4-hritik/</guid>
+      <description>Club Secretary</description>
+    </item>
+    <item>
+      <title>Perspectives on Computational Mathematics Club</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pratik Ray</title>
+      <link>//localhost:1313/authors/pratik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/pratik/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Pratikshya Bhattarai</title>
+      <link>//localhost:1313/authors/11-pratikshya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/11-pratikshya/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Priti Tamang</title>
+      <link>//localhost:1313/authors/12-priti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/12-priti/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>//localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/privacy-policy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>Priya Jaiswal</title>
+      <link>//localhost:1313/authors/10-priya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/10-priya/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruby Shrestha</title>
+      <link>//localhost:1313/authors/3-ruby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/3-ruby/</guid>
+      <description>General Secretary</description>
+    </item>
+    <item>
+      <title>Sandesh Sapkota</title>
+      <link>//localhost:1313/authors/6-sandesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/6-sandesh/</guid>
+      <description>Assistant Treasurer</description>
+    </item>
+    <item>
+      <title>Sashuv Kafle</title>
+      <link>//localhost:1313/authors/7-sashuv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/7-sashuv/</guid>
+      <description>Technical Lead</description>
+    </item>
+    <item>
+      <title>Shambhav Rayamajhi</title>
+      <link>//localhost:1313/authors/9-shambhav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/9-shambhav/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Supriya Baniya</title>
+      <link>//localhost:1313/authors/8-supriya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/8-supriya/</guid>
+      <description>Executive</description>
+    </item>
+  </channel>
+</rss>

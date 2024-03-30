@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming on KUCMC</title>
+    <link>//localhost:1313/categories/upcoming/</link>
+    <description>Recent content in Upcoming on KUCMC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HamroNiwas Entrepreneurship 101 Workshop</title>
+      <link>//localhost:1313/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/post-4/</guid>
+      <description>Are you a Kathmandu University student eager to dive into the world of entrepreneurship?</description>
+    </item>
+  </channel>
+</rss>

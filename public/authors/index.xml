@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Committee on KUCMC</title>
+    <link>//localhost:1313/authors/</link>
+    <description>Recent content in Committee on KUCMC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avash Shrestha</title>
+      <link>//localhost:1313/authors/5-avash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/5-avash/</guid>
+      <description>Treasurer</description>
+    </item>
+    <item>
+      <title>Avinash Tiwari</title>
+      <link>//localhost:1313/authors/2-avinash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/2-avinash/</guid>
+      <description>Vice President</description>
+    </item>
+    <item>
+      <title>Ayam Basyal</title>
+      <link>//localhost:1313/authors/1-ayam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/1-ayam/</guid>
+      <description>President</description>
+    </item>
+    <item>
+      <title>Hritik Chaudhary</title>
+      <link>//localhost:1313/authors/4-hritik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/4-hritik/</guid>
+      <description>Club Secretary</description>
+    </item>
+    <item>
+      <title>Pratik Ray</title>
+      <link>//localhost:1313/authors/pratik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/pratik/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Pratikshya Bhattarai</title>
+      <link>//localhost:1313/authors/11-pratikshya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/11-pratikshya/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Priti Tamang</title>
+      <link>//localhost:1313/authors/12-priti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/12-priti/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Priya Jaiswal</title>
+      <link>//localhost:1313/authors/10-priya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/10-priya/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Ruby Shrestha</title>
+      <link>//localhost:1313/authors/3-ruby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/3-ruby/</guid>
+      <description>General Secretary</description>
+    </item>
+    <item>
+      <title>Sandesh Sapkota</title>
+      <link>//localhost:1313/authors/6-sandesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/6-sandesh/</guid>
+      <description>Assistant Treasurer</description>
+    </item>
+    <item>
+      <title>Sashuv Kafle</title>
+      <link>//localhost:1313/authors/7-sashuv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/7-sashuv/</guid>
+      <description>Technical Lead</description>
+    </item>
+    <item>
+      <title>Shambhav Rayamajhi</title>
+      <link>//localhost:1313/authors/9-shambhav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/9-shambhav/</guid>
+      <description>Executive</description>
+    </item>
+    <item>
+      <title>Supriya Baniya</title>
+      <link>//localhost:1313/authors/8-supriya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/8-supriya/</guid>
+      <description>Executive</description>
+    </item>
+  </channel>
+</rss>
